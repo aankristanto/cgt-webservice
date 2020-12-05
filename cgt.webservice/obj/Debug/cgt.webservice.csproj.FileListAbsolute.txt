@@ -1,0 +1,7 @@
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt.webservice\cgt.webservice\bin\cgt.webservice.dll.config
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt.webservice\cgt.webservice\bin\cgt.webservice.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt.webservice\cgt.webservice\bin\cgt.webservice.pdb
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt.webservice\cgt.webservice\obj\Debug\cgt.webservice.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt.webservice\cgt.webservice\obj\Debug\cgt.webservice.pdb
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt.webservice\cgt.webservice\bin\cgt.dll
+C:\Users\SBR-SMG-92\Desktop\SUMBIRI\cgt.webservice\cgt.webservice\bin\cgt.pdb

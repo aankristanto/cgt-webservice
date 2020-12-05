@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\192.168.2.225\sbris\ws\</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/cgt.dll">
+      <publishTime>07/02/2020 09:59:10</publishTime>
+    </File>
+    <File Include="bin/cgt.webservice.dll">
+      <publishTime>09/25/2020 13:05:51</publishTime>
+    </File>
+    <File Include="HR.asmx">
+      <publishTime>09/25/2020 11:29:00</publishTime>
+    </File>
+    <File Include="SBR.asmx">
+      <publishTime>07/11/2019 15:20:04</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>09/25/2020 11:29:29</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
